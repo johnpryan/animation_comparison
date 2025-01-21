@@ -46,6 +46,9 @@ struct MyAnimatedView: View {
         RoundedRectangle(cornerRadius: 10)
             .foregroundColor(.blue)
             .aspectRatio(1, contentMode: .fill)
+            .transition(.opacity) // fade in (default)
+//            .transition(.identity) // no animation
+//            .transition(.scale) // scale up
     }
 }
 
