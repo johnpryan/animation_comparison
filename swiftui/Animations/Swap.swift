@@ -11,7 +11,7 @@ struct Swap: View {
                         Text("Card A")
                     }
                     
-                    MyCard(color: isSwapped ? .blue : .orange, namespace: namespace, id: "cardB") {
+                    MyCard(color: .orange, namespace: namespace, id: "cardB") {
                         Text("Card B")
                     }
                 } else {
