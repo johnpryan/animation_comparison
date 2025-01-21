@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct ContentView: View {
+struct Swap: View {
     @Namespace private var namespace
     @State private var isSwapped = false // State to track swap status
 
@@ -51,5 +51,5 @@ struct MyCard<Content: View>: View {
 }
 
 #Preview {
-    ContentView()
+   Swap()
 }
