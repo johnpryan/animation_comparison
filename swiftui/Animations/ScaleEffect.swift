@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Animations
-//
-//  Created by John Ryan on 1/21/25.
-//
-
 import SwiftUI
 
 struct ScaleEffect: View {

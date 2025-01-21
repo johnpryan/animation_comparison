@@ -1,10 +1,3 @@
-//
-//  AnimationsUITestsLaunchTests.swift
-//  AnimationsUITests
-//
-//  Created by John Ryan on 1/21/25.
-//
-
 import XCTest
 
 final class AnimationsUITestsLaunchTests: XCTestCase {

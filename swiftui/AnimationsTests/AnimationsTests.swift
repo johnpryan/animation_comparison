@@ -1,10 +1,3 @@
-//
-//  AnimationsTests.swift
-//  AnimationsTests
-//
-//  Created by John Ryan on 1/21/25.
-//
-
 import Testing
 @testable import Animations
 
